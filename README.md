@@ -68,7 +68,7 @@ graph TD;
   click B "http://gius.nl" "This is a link"
 ```
 
-> [Mermaid](https://mermaid-js.github.io/mermaid/#/) doesn't work. @see closed [feature request](https://github.com/github/markup/issues/533)
+> [Mermaid](https://mermaid-js.github.io/mermaid/#/) doesn't work. @see closed [feature request issue#533](https://github.com/github/markup/issues/533)
 
 ### Diagrams using Google
 
