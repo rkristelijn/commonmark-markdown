@@ -90,3 +90,4 @@ Will generate:
 |---|---|
 | [stackedit.io](stackedit.io) | online markdown editor that supports scores, formula's, mermaid and more |
 | [bramp.github.io](https://bramp.github.io/js-sequence-diagrams/) | online sequence diagrams to svg |
+| [http://flowchart.js.org/](http://flowchart.js.org/) | online flowchart > you should use activity diagrams |
