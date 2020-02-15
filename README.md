@@ -88,4 +88,5 @@ Will generate:
 
 | item | description |
 |---|---|
-| [stackedit.io](stackedit.io) | online markdown editor that supports scores, formula's, mermaid and more
+| [stackedit.io](stackedit.io) | online markdown editor that supports scores, formula's, mermaid and more |
+| [bramp.github.io](https://bramp.github.io/js-sequence-diagrams/) | online sequence diagrams to svg |
