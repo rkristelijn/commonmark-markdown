@@ -13,8 +13,8 @@ Today I decided to play around with CommonMark, specifically for technical docum
 Here are some articles where I draw my information from:
 
 - [Github is now using CommonMark](https://talk.commonmark.org/t/github-is-now-using-commonmark-and-a-modified-version-of-cmark/2365)
-- [Formal spec of Github Flavored Markdown](https://github.blog/2017-03-14-a-formal-spec-for-github-markdown/)
+- [2017 blog of Github Flavored Markdown](https://github.blog/2017-03-14-a-formal-spec-for-github-markdown/)
+- [Official specification of Github Flavored Markdown](https://github.github.com/gfm/)
+- [sourcecode of Github's version of CommonMark](https://github.com/github/cmark-gfm)
 
-## So what is it
-
-The specification of Github-flavored-markdown can be found [here](https://github.com/github/cmark-gfm).
+## Examples
