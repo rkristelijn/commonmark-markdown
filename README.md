@@ -74,6 +74,28 @@ graph TD;
 
 > [Mermaid](https://mermaid-js.github.io/mermaid/#/) doesn't work. @see closed [feature request issue#533](https://github.com/github/markup/issues/533)
 
+### Diagrams using yUML
+
+```yuml
+// {type:class}
+// {direction:topDown}
+// {generate:true}
+
+[note: You can stick notes on diagrams too!{bg:cornsilk}]
+[Customer]<>1-orders 0..*>[Order]
+[Order]++*-*>[LineItem]
+[Order]-1>[DeliveryMethod]
+[Order]*-*>[Product|EAN_Code|promo_price()]
+[Category]<->[Product]
+[DeliveryMethod]^[National]
+[DeliveryMethod]^[International]
+```
+
+### Diagrams using PlantUML
+
+```puml
+```
+
 ### Diagrams using Google
 
 Abusing the image tag:
@@ -91,3 +113,4 @@ Will generate:
 | [stackedit.io](stackedit.io) | online markdown editor that supports scores, formula's, mermaid and more |
 | [bramp.github.io](https://bramp.github.io/js-sequence-diagrams/) | online sequence diagrams to svg |
 | [http://flowchart.js.org/](http://flowchart.js.org/) | online flowchart > you should use activity diagrams |
+| [yUML suntax in VSC](https://github.com/jaime-olivares/yuml-diagram/wiki) | yUML for VSC, not supported by gitlab nor github |
