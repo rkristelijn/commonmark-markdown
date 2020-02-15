@@ -2,7 +2,7 @@
 
 ## Goals of this repo
 
-Just some test what commonmark markdown can do for me.
+Just some test what commonmark markdown can do for me. TLDR; not much. Mermaid is not supported by GFM
 
 ## Background
 
@@ -57,6 +57,10 @@ But what about...
 
 ## Extended Examples
 
+### Diagrams
+
+- [Diagrams in Github Readme discussion](https://gist.github.com/rodneyrehm/40e7946c0cff68a31cea)
+
 ### Diagrams using [Mermaid](https://mermaid-js.github.io/mermaid/#/)
 
 ```mermaid
@@ -79,3 +83,9 @@ Abusing the image tag:
 Will generate:
 
 ![](https://chart.googleapis.com/chart?cht=gv&chl=graph{C_0--H_0[type=s];C_0--H_1[type=s];C_0--H_2[type=s];C_0--C_1[type=s];C_1--H_3[type=s];C_1--H_4[type=s];C_1--H_5[type=s]})
+
+# Other mentions
+
+| item | description |
+|---|---|
+| [stackedit.io](stackedit.io) | online markdown editor that supports scores, formula's, mermaid and more
