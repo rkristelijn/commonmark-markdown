@@ -57,7 +57,7 @@ But what about...
 
 ## Extended Examples
 
-### Diagrams using mermaid
+### Diagrams using [Mermaid](https://mermaid-js.github.io/mermaid/#/)
 
 ```mermaid
 graph TD;
@@ -67,3 +67,5 @@ graph TD;
   C-->D;
   click B "http://gius.nl" "This is a link"
 ```
+
+> [Mermaid](https://mermaid-js.github.io/mermaid/#/) doesn't work. @see closed [feature request](https://github.com/github/markup/issues/533)
